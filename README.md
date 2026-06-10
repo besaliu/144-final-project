@@ -11,6 +11,8 @@ Aaron Yam (CruzID: 2105044)
 To understand our project, please refer to the CSE144 Report.pdf and for our weights you can go to the folder labeled checkpoints->best_model.pt or reference the google link below
 https://drive.google.com/file/d/1z9NXb1m_oRLn3R8NAWz_Q6SRgEus2f-p/view?usp=sharing
 
+Check out the final Report and our Presentation linked in the files of the repo.
+
 
 How To Run Our Repo:
 
